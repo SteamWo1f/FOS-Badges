@@ -1,6 +1,15 @@
 # FOS_Badge
-FOSS/FOS Badges
 
+
+This is a collection of FOSS/FOS badges that you can use in any Open Source Project.
+
+
+## Table of Contents
+
+- [Black Images](#black)
+- [White Images](#white)
+- [File Name Index](#file_name_index)
+- [Credits](#credits)
 
 
 
@@ -31,3 +40,23 @@ FOSS/FOS Badges
 | PNG  | SVG |
 | ---- |-----|
 | <img src="https://github.com/SteamWo1f/FOS_Badge/blob/main/Badges/White/PNG/MT_W.png?raw=true" width="250" height="auto">  | <img src="https://raw.githubusercontent.com/SteamWo1f/FOS_Badge/77d05cb9817d2b992df35a08197127f8c678ceca/Badges/White/SVG/MT_W.svg" width="250" height="auto"> |
+
+
+# File Name Index
+
+```
+AT = All text
+BT = Basic text
+MT = Minimal text
+
+B = Black Ver
+W = White Ver
+
+EG:
+
+AT_B.png = All Text, Black Ver
+```
+
+# Credits
+Badges Created By (SteamWolf)[steamwolf.vercel.app/]
+Font Used In Badges Is (Hack)[https://sourcefoundry.org/hack/] From Source Foundry
