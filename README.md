@@ -8,7 +8,7 @@ This is a collection of FOSS/FOS badges that you can use in any Open Source Proj
 
 - [Black Images](#black)
 - [White Images](#white)
-- [File Name Index](#file_name_index)
+- [File Name Index](#file-name-index)
 - [Credits](#credits)
 
 
