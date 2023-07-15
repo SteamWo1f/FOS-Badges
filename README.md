@@ -58,5 +58,5 @@ AT_B.png = All Text, Black Ver
 ```
 
 # Credits
-Badges Created By (SteamWolf)[steamwolf.vercel.app/]
-Font Used In Badges Is (Hack)[https://sourcefoundry.org/hack/] From Source Foundry
+Badges Created By [SteamWolf](steamwolf.vercel.app/)
+Font Used In Badges Is [Hack](https://sourcefoundry.org/hack/) From Source Foundry
