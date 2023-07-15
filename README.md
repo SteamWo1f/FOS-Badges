@@ -1,4 +1,4 @@
-![FOS_Badge](https://github.com/SteamWo1f/FOS-Badges/blob/main/Banner.png?raw=true)
+<img src="https://raw.githubusercontent.com/SteamWo1f/FOS-Badges/186d4b63ff79bde50be9058b454fe6faaa030a23/Banner.png" width="3000" height="auto">
 
 
 
