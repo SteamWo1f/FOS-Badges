@@ -1,9 +1,11 @@
+
 <img src="https://raw.githubusercontent.com/SteamWo1f/FOS-Badges/186d4b63ff79bde50be9058b454fe6faaa030a23/Banner.png" width="3000" height="auto">
 
 
 
 This is a collection of FOSS/FOS badges that you can use in any Open Source Project.
 
+> *FUN FACT! I did not know FOS already meant "Full of S**t" when I made these badges, I genuinely thought it meant Free & Open Source*
 
 ## Table of Contents
 
