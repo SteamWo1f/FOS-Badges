@@ -5,7 +5,7 @@
 
 This is a collection of FOSS/FOS badges that you can use in any Open Source Project.
 
-> *FUN FACT! I did not know FOS already meant "Full of S**t" when I made these badges, I genuinely thought it meant Free & Open Source*
+> *FUN FACT! I did not know FOS already meant "Full of S**t" when I made these badges, I genuinely thought it meant Free & Open Source. Oh well*
 
 ## Table of Contents
 
